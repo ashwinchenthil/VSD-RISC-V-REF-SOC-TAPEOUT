@@ -1,8 +1,4 @@
-# Project Title
-
-## Tools Installation
-
-[All the instructions for installation of required tools can be found here](link)
+# RISC-V Reference SoC Tapeout Program VSD
 
 ## System Requirements
 
