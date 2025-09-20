@@ -46,7 +46,7 @@ sudo apt-get update
 sudo apt-get install iverilog
 ```
 
-###gtkwave
+### gtkwave
 
 ```bash
 sudo apt-get update
